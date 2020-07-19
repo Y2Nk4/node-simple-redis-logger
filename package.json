@@ -1,0 +1,28 @@
+{
+  "name": "simple-redis-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simple-redis-logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Y2Nk4/node-simple-redis-logger.git"
+  },
+  "keywords": [
+    "redis",
+    "logger",
+    "redis-logger"
+  ],
+  "author": "Y2Nk4",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Y2Nk4/node-simple-redis-logger/issues"
+  },
+  "homepage": "https://github.com/Y2Nk4/node-simple-redis-logger#readme",
+  "dependencies": {
+    "log4js": "^6.3.0",
+    "redis": "^3.0.2"
+  }
+}
